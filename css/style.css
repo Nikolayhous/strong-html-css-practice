@@ -561,7 +561,7 @@ iframe {
 }
 
 .button {
-  background-color: #ff2d2d;
+  /* background-color: #ff2d2d; */
   max-width: 214px;
   padding: 25, 25px;
 }
@@ -572,6 +572,11 @@ iframe {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.32px;
+}
+
+.subscribe__form {
+  display: flex;
+  justify-content: center;
 }
 
 .contact {
